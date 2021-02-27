@@ -1,0 +1,16 @@
+{
+    "name": "yogastama/megonesia_snapshot",
+    "description": "A snapshot camera package for laravel",
+    "authors": [
+        {
+            "name": "yogastama",
+            "email": "yogabagas69@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Yogastama\\Megonesia_snapshot\\": "src/"
+        }
+    },
+    "require": {}
+}
